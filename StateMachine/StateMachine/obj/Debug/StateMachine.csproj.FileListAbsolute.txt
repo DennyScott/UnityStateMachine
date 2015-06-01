@@ -1,0 +1,6 @@
+c:\users\denny scott\documents\Statemachine\StateMachine\StateMachine\bin\Debug\StateMachine.exe.config
+c:\users\denny scott\documents\Statemachine\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+c:\users\denny scott\documents\Statemachine\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+c:\users\denny scott\documents\Statemachine\StateMachine\StateMachine\obj\Debug\StateMachine.csprojResolveAssemblyReference.cache
+c:\users\denny scott\documents\Statemachine\StateMachine\StateMachine\obj\Debug\StateMachine.exe
+c:\users\denny scott\documents\Statemachine\StateMachine\StateMachine\obj\Debug\StateMachine.pdb
